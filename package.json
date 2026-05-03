@@ -1,0 +1,20 @@
+{
+  "name": "nipakk",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "predev": "mise install && vp install",
+    "build": "vp run --filter @nipakk/web build",
+    "dev": "vp run --filter @nipakk/web dev",
+    "typecheck": "vp run -r typecheck",
+    "clean": "vp run -r clean && rm -rf node_modules dist && vp cache clean",
+    "ui:add": "vp run --filter @nipakk/ui add"
+  },
+  "devDependencies": {
+    "@total-typescript/tsconfig": "^1.0.4",
+    "@types/node": "^25.6.0",
+    "@typescript/native-preview": "7.0.0-dev.20260503.1",
+    "vite-plus": "^0.1.20"
+  },
+  "packageManager": "pnpm@11.0.4"
+}
