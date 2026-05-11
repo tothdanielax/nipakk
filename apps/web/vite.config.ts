@@ -3,8 +3,8 @@ import { defineConfig } from 'vite-plus';
 import react, { reactCompilerPreset } from '@vitejs/plugin-react';
 import babel from '@rolldown/plugin-babel';
 
-export default defineConfig({
-  base: process.env.BASE_URL ?? '/',
+export default defineConfig(({ command }) => ({
+  base: command === 'build' ? '/nipakk/' : '/',
 
   plugins: [react(), babel({ presets: [reactCompilerPreset()] }), tailwindcss()],
 
@@ -17,4 +17,4 @@ export default defineConfig({
   resolve: {
     tsconfigPaths: true
   }
-});
+}));
