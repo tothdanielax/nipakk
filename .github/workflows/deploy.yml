@@ -34,6 +34,8 @@ jobs:
 
       - name: Build
         run: vp run build
+        env:
+          BASE_URL: /nipakk/
 
       - name: Setup Pages
         uses: actions/configure-pages@v6
