@@ -6,6 +6,7 @@
     "predev": "mise install && vp install",
     "build": "vp run --filter @nipakk/web build",
     "dev": "vp run --filter @nipakk/web dev",
+    "preview": "vp run --filter @nipakk/web preview",
     "typecheck": "vp run -r typecheck",
     "clean": "vp run -r clean && rm -rf node_modules dist && vp cache clean",
     "ui:add": "vp run --filter @nipakk/ui add"

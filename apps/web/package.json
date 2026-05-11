@@ -6,6 +6,7 @@
     "clean": "rm -rf node_modules dist",
     "build": "vp build",
     "dev": "vp dev",
+    "preview": "vp preview",
     "typecheck": "tsgo --noEmit"
   },
   "dependencies": {
