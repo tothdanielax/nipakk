@@ -4,7 +4,7 @@ import react, { reactCompilerPreset } from '@vitejs/plugin-react';
 import babel from '@rolldown/plugin-babel';
 
 export default defineConfig({
-  base: process.env.BASE_URL ?? '/',
+  base: process.env.NODE_ENV === 'production' ? '/nipakk/' : '/',
 
   plugins: [react(), babel({ presets: [reactCompilerPreset()] }), tailwindcss()],
 
