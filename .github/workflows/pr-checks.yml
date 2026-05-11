@@ -15,11 +15,6 @@ on:
       - '**/vite.config.ts'
       - '.github/workflows/*'
   workflow_dispatch:
-    inputs:
-      ref:
-        required: true
-        type: string
-        default: main
 
 permissions:
   contents: read
