@@ -1,0 +1,13 @@
+{
+  "name": "@nipakk/core",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./*": "./src/*.ts"
+  },
+  "scripts": {
+    "clean": "rm -rf node_modules",
+    "typecheck": "tsc --noEmit && tsc --noEmit -p scripts",
+    "catalog:sync": "node ./scripts/sync-catalog.ts"
+  }
+}

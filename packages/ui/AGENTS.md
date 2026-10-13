@@ -1,0 +1,42 @@
+# @nipakk/ui
+
+Shared UI component library
+
+## Tech Stack
+
+- React (v19)
+- Tailwind CSS (v4), see `./src/styles/globals.css`
+- Shadcn (v4, see `./components.json`)
+- BaseUI (v1)
+- `cn` (shadcn class merger, replaces clsx + tailwind-merge)
+
+## Structure
+
+```bash
+packages/ui/src/
+├── components/           # shadcn components and small primitives (Heading, Paragraph, IconButton)
+└── styles/
+    └── globals.css       # `Tailwind` base
+```
+
+## Quick Reference
+
+- Add component: `src/components/<name>.tsx`
+- `Tooltip` falls back to a tap-to-open popover on touch devices (no hover), so tooltips work on mobile
+- Modify styles: `src/styles/globals.css`
+
+## Conventions
+
+### Adding Components
+
+1. Check if shadcn has the component you need
+2. If yes: `vp run ui:add <component>` (run from root)
+3. If no: Create in `src/components/` following existing patterns
+
+### Using in Other Packages
+
+```tsx
+import { Button } from '@nipakk/ui/components/button';
+```
+
+See [css](../../docs/css.md) for stylesheet conventions.

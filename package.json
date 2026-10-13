@@ -1,0 +1,40 @@
+{
+  "name": "nipakk",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "apps/*",
+      "packages/*"
+    ],
+    "catalog": {
+      "@types/react": "^19.3.0",
+      "@types/react-dom": "^19.3.0",
+      "lucide-react": "^1.56.0",
+      "react": "^19.3.0",
+      "react-dom": "^19.3.0",
+      "tailwindcss": "^4.3.3"
+    }
+  },
+  "type": "module",
+  "scripts": {
+    "predev": "mise install && vp install",
+    "build": "vp run --filter @nipakk/web build",
+    "dev": "vp run --filter @nipakk/web dev",
+    "preview": "vp run --filter @nipakk/web preview",
+    "typecheck": "vp run -r typecheck",
+    "clean": "vp run -r clean && rm -rf node_modules && vp cache clean",
+    "ui:add": "vp run --filter @nipakk/ui add",
+    "catalog:sync": "vp run --filter @nipakk/core catalog:sync"
+  },
+  "devDependencies": {
+    "@total-typescript/tsconfig": "^1.0.4",
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2",
+    "vite-plus": "^1.1.0"
+  },
+  "overrides": {
+    "vite": "npm:@voidzero-dev/vite-plus-core@1.1.0",
+    "vitest": "5.0.4"
+  },
+  "packageManager": "bun@1.4.2"
+}

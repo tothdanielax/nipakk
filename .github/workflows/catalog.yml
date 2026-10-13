@@ -1,0 +1,36 @@
+name: Catalog
+
+# Rankings drift and Homebrew deprecates packages: refresh the catalog weekly via a pull request.
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    name: Sync
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v7
+
+      - name: Setup VP
+        uses: voidzero-dev/setup-vp@v1
+        with:
+          node-version: '26'
+          cache: true
+
+      - name: Sync catalog
+        run: vp run catalog:sync
+
+      - name: Open pull request
+        uses: peter-evans/create-pull-request@v8
+        with:
+          branch: chore/catalog-sync
+          commit-message: 'chore: sync catalog with homebrew analytics'
+          title: 'chore: sync catalog with homebrew analytics'
+          body: Weekly `vpr catalog:sync` run, rankings use 365 day Homebrew installs.

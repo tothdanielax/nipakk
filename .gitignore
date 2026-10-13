@@ -1,0 +1,16 @@
+# dependencies
+node_modules
+
+# misc
+.DS_Store
+.idea
+
+# build
+dist
+*.tsbuildinfo
+
+# vite
+.vite-hooks/_
+
+# playwright
+.playwright-mcp
