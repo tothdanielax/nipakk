@@ -6,61 +6,61 @@
         "kind": "cask",
         "slug": "google-chrome",
         "description": "Web browser",
-        "installs": 435273
+        "installs": 434396
       },
       {
         "kind": "cask",
         "slug": "firefox",
         "description": "Web browser",
-        "installs": 185933
+        "installs": 184749
       },
       {
         "kind": "cask",
         "slug": "brave-browser",
         "description": "Web browser focusing on privacy",
-        "installs": 90821
+        "installs": 90944
       },
       {
         "kind": "cask",
         "slug": "microsoft-edge",
         "description": "Multi-platform web browser",
-        "installs": 52744
+        "installs": 53051
       },
       {
         "kind": "cask",
         "slug": "librewolf",
         "description": "Web browser",
-        "installs": 43702
+        "installs": 43215
       },
       {
         "kind": "cask",
         "slug": "arc",
         "description": "Chromium based browser",
-        "installs": 29414
+        "installs": 29417
       },
       {
         "kind": "cask",
         "slug": "zen",
         "description": "Gecko based web browser",
-        "installs": 29241
+        "installs": 29187
       },
       {
         "kind": "cask",
         "slug": "tor-browser",
         "description": "Web browser focusing on security",
-        "installs": 19312
+        "installs": 19330
       },
       {
         "kind": "cask",
         "slug": "vivaldi",
         "description": "Web browser with built-in email client focusing on customization and control",
-        "installs": 16705
+        "installs": 16704
       },
       {
         "kind": "cask",
         "slug": "helium-browser",
         "description": "Chromium-based web browser",
-        "installs": 14859
+        "installs": 14999
       }
     ]
   },
@@ -71,61 +71,61 @@
         "kind": "cask",
         "slug": "ghostty",
         "description": "Terminal emulator that uses platform-native UI and GPU acceleration",
-        "installs": 373350
+        "installs": 376030
       },
       {
         "kind": "cask",
         "slug": "iterm2",
         "description": "Terminal emulator as alternative to Apple's Terminal app",
-        "installs": 308862
+        "installs": 307906
       },
       {
         "kind": "cask",
         "slug": "warp",
         "description": "Rust-based terminal",
-        "installs": 138477
+        "installs": 136829
       },
       {
         "kind": "cask",
         "slug": "cmux",
         "description": "Ghostty-based terminal with vertical tabs and notifications for AI coding agents",
-        "installs": 57763
+        "installs": 58798
       },
       {
         "kind": "cask",
         "slug": "kitty",
         "description": "GPU-based terminal emulator",
-        "installs": 52867
+        "installs": 52585
       },
       {
         "kind": "cask",
         "slug": "wezterm",
         "description": "GPU-accelerated cross-platform terminal emulator and multiplexer",
-        "installs": 43571
+        "installs": 43288
       },
       {
         "kind": "cask",
         "slug": "wave",
         "description": "Terminal emulator",
-        "installs": 11655
+        "installs": 11607
       },
       {
         "kind": "cask",
         "slug": "tabby",
         "description": "Terminal emulator, SSH and serial client",
-        "installs": 11587
+        "installs": 11567
       },
       {
         "kind": "cask",
         "slug": "rio",
         "description": "Hardware-accelerated GPU terminal emulator",
-        "installs": 3341
+        "installs": 3274
       },
       {
         "kind": "cask",
         "slug": "termora",
         "description": "Terminal emulator and SSH client",
-        "installs": 2718
+        "installs": 2774
       }
     ]
   },
@@ -136,61 +136,61 @@
         "kind": "cask",
         "slug": "claude-code",
         "description": "Terminal-based AI coding assistant",
-        "installs": 1160038
+        "installs": 1167887
       },
       {
         "kind": "cask",
         "slug": "codex",
         "description": "OpenAI's coding agent that runs in your terminal",
-        "installs": 916239
+        "installs": 943274
       },
       {
         "kind": "formula",
         "slug": "ollama",
         "description": "Create, run, and share large language models (LLMs)",
-        "installs": 634229
+        "installs": 640619
       },
       {
         "kind": "formula",
         "slug": "opencode",
         "description": "AI coding agent, built for the terminal",
-        "installs": 384787
+        "installs": 392292
       },
       {
         "kind": "formula",
         "slug": "llama.cpp",
         "description": "LLM inference in C/C++",
-        "installs": 283730
+        "installs": 285221
       },
       {
         "kind": "cask",
         "slug": "copilot-cli",
         "description": "Brings the power of Copilot coding agent directly to your terminal",
-        "installs": 235660
+        "installs": 239048
       },
       {
         "kind": "cask",
         "slug": "claude",
         "description": "Anthropic's official Claude AI desktop app",
-        "installs": 217164
+        "installs": 219512
       },
       {
         "kind": "formula",
         "slug": "rtk",
         "description": "CLI proxy to minimize LLM token consumption",
-        "installs": 132680
+        "installs": 139571
       },
       {
         "kind": "cask",
         "slug": "cursor",
         "description": "Write, edit, and chat about your code with AI",
-        "installs": 118311
+        "installs": 117889
       },
       {
         "kind": "cask",
         "slug": "cc-switch",
         "description": "Configuration manager for AI coding agents",
-        "installs": 112868
+        "installs": 114015
       }
     ]
   },
@@ -201,61 +201,61 @@
         "kind": "cask",
         "slug": "docker-desktop",
         "description": "App to build and share containerised applications and microservices",
-        "installs": 528108
+        "installs": 528140
       },
       {
         "kind": "cask",
         "slug": "git-credential-manager",
         "description": "Cross-platform Git credential storage for multiple hosting providers",
-        "installs": 369489
+        "installs": 366369
       },
       {
         "kind": "cask",
         "slug": "postman",
         "description": "Collaboration platform for API development",
-        "installs": 139411
+        "installs": 138290
       },
       {
         "kind": "cask",
         "slug": "dbeaver-community",
         "description": "Universal database tool and SQL client",
-        "installs": 131189
+        "installs": 130784
       },
       {
         "kind": "cask",
         "slug": "dotnet-sdk",
         "description": "Developer platform",
-        "installs": 116003
+        "installs": 116281
       },
       {
         "kind": "cask",
         "slug": "mitmproxy",
         "description": "Intercept, modify, replay, save HTTP/S traffic",
-        "installs": 87355
+        "installs": 88613
       },
       {
         "kind": "cask",
         "slug": "bruno",
         "description": "Open source IDE for exploring and testing APIs",
-        "installs": 75942
+        "installs": 75069
       },
       {
         "kind": "cask",
         "slug": "utm",
         "description": "Virtual machines UI using QEMU",
-        "installs": 65829
+        "installs": 66957
       },
       {
         "kind": "cask",
         "slug": "pgadmin4",
         "description": "Administration and development platform for PostgreSQL",
-        "installs": 51554
+        "installs": 51106
       },
       {
         "kind": "cask",
         "slug": "db-browser-for-sqlite",
         "description": "Browser for SQLite databases",
-        "installs": 50944
+        "installs": 50682
       }
     ]
   },
@@ -266,61 +266,61 @@
         "kind": "formula",
         "slug": "neovim",
         "description": "Ambitious Vim-fork focused on extensibility and agility",
-        "installs": 501634
+        "installs": 506735
       },
       {
         "kind": "cask",
         "slug": "visual-studio-code",
         "description": "Open-source code editor",
-        "installs": 478886
+        "installs": 478134
       },
       {
         "kind": "cask",
         "slug": "zed",
         "description": "Multiplayer code editor",
-        "installs": 111807
+        "installs": 111886
       },
       {
         "kind": "cask",
         "slug": "sublime-text",
         "description": "Text editor for code, markup and prose",
-        "installs": 61966
+        "installs": 61933
       },
       {
         "kind": "formula",
         "slug": "emacs",
         "description": "GNU Emacs text editor",
-        "installs": 40161
+        "installs": 39824
       },
       {
         "kind": "formula",
         "slug": "nano",
         "description": "Free (GNU) replacement for the Pico text editor",
-        "installs": 36525
+        "installs": 36384
       },
       {
         "kind": "cask",
         "slug": "intellij-idea",
         "description": "Java IDE by JetBrains",
-        "installs": 33443
+        "installs": 33503
       },
       {
         "kind": "formula",
         "slug": "fresh-editor",
         "description": "Text editor for your terminal: easy, powerful and fast",
-        "installs": 27865
+        "installs": 28576
       },
       {
         "kind": "formula",
         "slug": "helix",
         "description": "Post-modern modal text editor",
-        "installs": 24598
+        "installs": 24168
       },
       {
         "kind": "cask",
         "slug": "pycharm",
         "description": "IDE for professional Python development",
-        "installs": 17265
+        "installs": 17263
       }
     ]
   },
@@ -331,61 +331,61 @@
         "kind": "formula",
         "slug": "awscli",
         "description": "Official Amazon AWS command-line interface",
-        "installs": 2311265
+        "installs": 2302153
       },
       {
         "kind": "formula",
         "slug": "helm",
         "description": "Kubernetes package manager",
-        "installs": 495213
+        "installs": 500774
       },
       {
         "kind": "formula",
         "slug": "kubernetes-cli",
         "description": "Kubernetes command-line interface",
-        "installs": 489178
+        "installs": 488365
       },
       {
         "kind": "formula",
         "slug": "cloudflared",
         "description": "Cloudflare Tunnel client (formerly Argo Tunnel)",
-        "installs": 283844
+        "installs": 288004
       },
       {
         "kind": "formula",
         "slug": "ansible",
         "description": "Automate deployment, configuration, and upgrading",
-        "installs": 235082
+        "installs": 234601
       },
       {
         "kind": "formula",
         "slug": "kubeconform",
         "description": "FAST Kubernetes manifests validator, with support for Custom Resources!",
-        "installs": 214903
+        "installs": 216743
       },
       {
         "kind": "formula",
         "slug": "rclone",
         "description": "Rsync for cloud storage",
-        "installs": 208385
+        "installs": 211606
       },
       {
         "kind": "formula",
         "slug": "k9s",
         "description": "Kubernetes CLI To Manage Your Clusters In Style!",
-        "installs": 168924
+        "installs": 167168
       },
       {
         "kind": "formula",
         "slug": "kustomize",
         "description": "Template-free customization of Kubernetes YAML manifests",
-        "installs": 165298
+        "installs": 165894
       },
       {
         "kind": "formula",
         "slug": "argocd",
         "description": "GitOps Continuous Delivery for Kubernetes",
-        "installs": 142883
+        "installs": 142839
       }
     ]
   },
@@ -396,61 +396,61 @@
         "kind": "formula",
         "slug": "starship",
         "description": "Cross-shell prompt for astronauts",
-        "installs": 259840
+        "installs": 267125
       },
       {
         "kind": "formula",
         "slug": "bash",
         "description": "Bourne-Again SHell, a UNIX command interpreter",
-        "installs": 258392
+        "installs": 261293
       },
       {
         "kind": "formula",
         "slug": "zsh",
         "description": "UNIX shell (command interpreter)",
-        "installs": 193857
+        "installs": 198481
       },
       {
         "kind": "formula",
         "slug": "zoxide",
         "description": "Shell extension to navigate your filesystem faster",
-        "installs": 166338
+        "installs": 168337
       },
       {
         "kind": "formula",
         "slug": "fish",
         "description": "User-friendly command-line shell for UNIX-like operating systems",
-        "installs": 164587
+        "installs": 162924
       },
       {
         "kind": "formula",
         "slug": "atuin",
         "description": "Improved shell history for zsh, bash, fish and nushell",
-        "installs": 156057
+        "installs": 160828
       },
       {
         "kind": "formula",
         "slug": "powershell",
         "description": "Command-line shell and scripting language",
-        "installs": 134996
+        "installs": 140387
       },
       {
         "kind": "formula",
         "slug": "zsh-autosuggestions",
         "description": "Fish-like fast/unobtrusive autosuggestions for zsh",
-        "installs": 70133
-      },
-      {
-        "kind": "formula",
-        "slug": "oh-my-posh",
-        "description": "Prompt theme engine for any shell",
-        "installs": 62965
+        "installs": 70338
       },
       {
         "kind": "formula",
         "slug": "zsh-syntax-highlighting",
         "description": "Fish shell like syntax highlighting for zsh",
-        "installs": 62728
+        "installs": 62918
+      },
+      {
+        "kind": "formula",
+        "slug": "oh-my-posh",
+        "description": "Prompt theme engine for any shell",
+        "installs": 62415
       }
     ]
   },
@@ -461,61 +461,61 @@
         "kind": "formula",
         "slug": "node",
         "description": "Open-source, cross-platform JavaScript runtime environment",
-        "installs": 2482201
+        "installs": 2503576
       },
       {
         "kind": "formula",
         "slug": "go",
         "description": "Open source programming language to build simple/reliable/efficient software",
-        "installs": 1234264
+        "installs": 1226782
       },
       {
         "kind": "formula",
         "slug": "python@3.14",
         "description": "Interpreted, interactive, object-oriented programming language",
-        "installs": 853854
-      },
-      {
-        "kind": "formula",
-        "slug": "openjdk@17",
-        "description": "Development kit for the Java programming language",
-        "installs": 325676
+        "installs": 852587
       },
       {
         "kind": "formula",
         "slug": "rust",
         "description": "Safe, concurrent, practical language",
-        "installs": 319020
+        "installs": 325217
+      },
+      {
+        "kind": "formula",
+        "slug": "openjdk@17",
+        "description": "Development kit for the Java programming language",
+        "installs": 324542
       },
       {
         "kind": "formula",
         "slug": "php",
         "description": "General-purpose scripting language",
-        "installs": 304720
+        "installs": 304060
       },
       {
         "kind": "formula",
         "slug": "ruby",
         "description": "Powerful, clean, object-oriented scripting language",
-        "installs": 265874
+        "installs": 264087
       },
       {
         "kind": "formula",
         "slug": "deno",
         "description": "Secure runtime for JavaScript and TypeScript",
-        "installs": 166616
+        "installs": 166022
       },
       {
         "kind": "formula",
         "slug": "lua",
         "description": "Powerful, lightweight programming language",
-        "installs": 105121
+        "installs": 107095
       },
       {
         "kind": "formula",
         "slug": "tcl-tk",
         "description": "Tool Command Language",
-        "installs": 81917
+        "installs": 81495
       }
     ]
   },
@@ -526,61 +526,61 @@
         "kind": "formula",
         "slug": "redis",
         "description": "Persistent key-value database, with built-in net interface",
-        "installs": 359002
+        "installs": 357108
       },
       {
         "kind": "formula",
         "slug": "mysql",
         "description": "Open source relational database management system",
-        "installs": 246520
+        "installs": 245431
       },
       {
         "kind": "formula",
         "slug": "postgresql@16",
         "description": "Object-relational database system",
-        "installs": 168453
+        "installs": 169981
       },
       {
         "kind": "formula",
         "slug": "sqlite",
         "description": "Command-line interface for SQLite",
-        "installs": 136775
+        "installs": 139327
       },
       {
         "kind": "formula",
         "slug": "mysql-client",
         "description": "Open source relational database management system",
-        "installs": 96434
+        "installs": 97208
       },
       {
         "kind": "formula",
         "slug": "mongosh",
         "description": "MongoDB Shell to connect, configure, query, and work with your MongoDB database",
-        "installs": 75661
+        "installs": 75526
       },
       {
         "kind": "formula",
         "slug": "duckdb",
         "description": "Embeddable SQL OLAP Database Management System",
-        "installs": 57671
+        "installs": 57589
       },
       {
         "kind": "formula",
         "slug": "mongodb-atlas-cli",
         "description": "Atlas CLI enables you to manage your MongoDB Atlas",
-        "installs": 46465
+        "installs": 45846
       },
       {
         "kind": "formula",
         "slug": "lazysql",
         "description": "Cross-platform TUI database management tool",
-        "installs": 9053
+        "installs": 9361
       },
       {
         "kind": "formula",
         "slug": "rocksdb",
         "description": "Embeddable, persistent key-value store for fast storage",
-        "installs": 3552
+        "installs": 3533
       }
     ]
   },
@@ -591,61 +591,61 @@
         "kind": "formula",
         "slug": "gh",
         "description": "GitHub command-line tool",
-        "installs": 2989655
+        "installs": 2989541
       },
       {
         "kind": "formula",
         "slug": "jq",
         "description": "Lightweight and flexible command-line JSON processor",
-        "installs": 796914
+        "installs": 798264
       },
       {
         "kind": "formula",
         "slug": "yt-dlp",
         "description": "Feature-rich command-line audio/video downloader",
-        "installs": 629256
+        "installs": 624073
       },
       {
         "kind": "formula",
         "slug": "yq",
         "description": "Process YAML, JSON, XML, CSV and properties documents from the CLI",
-        "installs": 616722
+        "installs": 610324
       },
       {
         "kind": "formula",
         "slug": "tmux",
         "description": "Terminal multiplexer",
-        "installs": 573987
+        "installs": 582624
       },
       {
         "kind": "formula",
         "slug": "fzf",
         "description": "Command-line fuzzy finder written in Go",
-        "installs": 568504
+        "installs": 566292
       },
       {
         "kind": "formula",
         "slug": "ripgrep",
         "description": "Search tool like grep and The Silver Searcher",
-        "installs": 528779
+        "installs": 522435
       },
       {
         "kind": "formula",
         "slug": "glab",
         "description": "Open-source GitLab command-line tool",
-        "installs": 351733
+        "installs": 354814
       },
       {
         "kind": "formula",
         "slug": "lazygit",
         "description": "Simple terminal UI for git commands",
-        "installs": 294496
+        "installs": 303505
       },
       {
         "kind": "formula",
         "slug": "git-lfs",
         "description": "Git extension for versioning large files",
-        "installs": 255756
+        "installs": 250486
       }
     ]
   },
@@ -656,61 +656,61 @@
         "kind": "cask",
         "slug": "discord",
         "description": "Voice and text chat software",
-        "installs": 93610
+        "installs": 93452
       },
       {
         "kind": "cask",
         "slug": "slack",
         "description": "Team communication and collaboration software",
-        "installs": 83424
+        "installs": 83363
       },
       {
         "kind": "cask",
         "slug": "zoom",
         "description": "Video communication and virtual meeting platform",
-        "installs": 64761
+        "installs": 65040
       },
       {
         "kind": "cask",
         "slug": "microsoft-teams",
         "description": "Meet, chat, call, and collaborate in just one place",
-        "installs": 46472
+        "installs": 46384
       },
       {
         "kind": "cask",
         "slug": "telegram",
         "description": "Messaging app with a focus on speed and security",
-        "installs": 45920
+        "installs": 45882
       },
       {
         "kind": "cask",
         "slug": "signal",
         "description": "Instant messaging application focusing on security",
-        "installs": 32623
+        "installs": 32346
       },
       {
         "kind": "cask",
         "slug": "wechat",
         "description": "Free messaging and calling application",
-        "installs": 18803
+        "installs": 18920
       },
       {
         "kind": "cask",
         "slug": "thunderbird",
         "description": "Customizable email client",
-        "installs": 18282
+        "installs": 18236
       },
       {
         "kind": "cask",
         "slug": "microsoft-outlook",
         "description": "Email client",
-        "installs": 14626
+        "installs": 14663
       },
       {
         "kind": "cask",
         "slug": "meetingbar",
         "description": "Shows the next meeting in the menu bar",
-        "installs": 6628
+        "installs": 6610
       }
     ]
   },
@@ -721,61 +721,61 @@
         "kind": "cask",
         "slug": "1password-cli",
         "description": "Command-line interface for 1Password",
-        "installs": 375537
+        "installs": 378419
       },
       {
         "kind": "cask",
         "slug": "libreoffice",
         "description": "Free cross-platform office suite, fresh version",
-        "installs": 369735
+        "installs": 378265
       },
       {
         "kind": "cask",
         "slug": "obsidian",
         "description": "Knowledge base that works on top of a local folder of plain text Markdown files",
-        "installs": 196077
+        "installs": 198770
       },
       {
         "kind": "cask",
         "slug": "raycast",
         "description": "Control your tools with a few keystrokes",
-        "installs": 116159
+        "installs": 116356
       },
       {
         "kind": "cask",
         "slug": "notion",
         "description": "App to write, plan, collaborate, and get organised",
-        "installs": 60846
+        "installs": 60807
       },
       {
         "kind": "cask",
         "slug": "1password",
         "description": "Password manager that keeps all passwords secure behind one password",
-        "installs": 59596
+        "installs": 59823
       },
       {
         "kind": "cask",
         "slug": "bitwarden",
         "description": "Desktop password and login vault",
-        "installs": 55949
+        "installs": 56279
       },
       {
         "kind": "cask",
         "slug": "cyberduck",
         "description": "Server and cloud storage browser",
-        "installs": 31312
+        "installs": 31438
       },
       {
         "kind": "cask",
         "slug": "keepassxc",
         "description": "Password manager app",
-        "installs": 28832
+        "installs": 28939
       },
       {
         "kind": "cask",
         "slug": "onedrive",
         "description": "Cloud storage client",
-        "installs": 17938
+        "installs": 18124
       }
     ]
   },
@@ -786,61 +786,61 @@
         "kind": "cask",
         "slug": "stats",
         "description": "System monitor for the menu bar",
-        "installs": 143616
+        "installs": 144214
       },
       {
         "kind": "cask",
         "slug": "rectangle",
         "description": "Move and resize windows using keyboard shortcuts or snap areas",
-        "installs": 115119
+        "installs": 115508
       },
       {
         "kind": "cask",
         "slug": "alt-tab",
         "description": "Enable Windows-like alt-tab",
-        "installs": 64104
+        "installs": 63763
       },
       {
         "kind": "cask",
         "slug": "jordanbaird-ice",
         "description": "Menu bar manager",
-        "installs": 58595
+        "installs": 58563
       },
       {
         "kind": "cask",
         "slug": "vorssaint",
         "description": "Menu bar toolkit with keep-awake, system monitor and volume mixer",
-        "installs": 33343
+        "installs": 36135
       },
       {
         "kind": "cask",
         "slug": "dockdoor",
         "description": "Window peeking utility app",
-        "installs": 31485
-      },
-      {
-        "kind": "cask",
-        "slug": "hiddenbar",
-        "description": "Utility to hide menu bar items",
-        "installs": 28894
-      },
-      {
-        "kind": "cask",
-        "slug": "thaw",
-        "description": "Menu bar manager",
-        "installs": 28476
-      },
-      {
-        "kind": "cask",
-        "slug": "codexbar",
-        "description": "Menu bar app for tracking agentic coding limits and usage",
-        "installs": 28217
+        "installs": 31786
       },
       {
         "kind": "cask",
         "slug": "swiftbar",
         "description": "Menu bar customization tool",
-        "installs": 28205
+        "installs": 29132
+      },
+      {
+        "kind": "cask",
+        "slug": "thaw",
+        "description": "Menu bar manager",
+        "installs": 29119
+      },
+      {
+        "kind": "cask",
+        "slug": "hiddenbar",
+        "description": "Utility to hide menu bar items",
+        "installs": 29032
+      },
+      {
+        "kind": "cask",
+        "slug": "codexbar",
+        "description": "Menu bar app for tracking agentic coding limits and usage",
+        "installs": 28997
       }
     ]
   },
@@ -851,61 +851,61 @@
         "kind": "cask",
         "slug": "vlc",
         "description": "Multimedia player",
-        "installs": 121282
+        "installs": 121946
       },
       {
         "kind": "cask",
         "slug": "blackhole-2ch",
         "description": "Virtual Audio Driver",
-        "installs": 108373
+        "installs": 110620
       },
       {
         "kind": "cask",
         "slug": "spotify",
         "description": "Music streaming service",
-        "installs": 94464
+        "installs": 94595
       },
       {
         "kind": "cask",
         "slug": "blender",
         "description": "3D creation suite",
-        "installs": 80523
+        "installs": 87011
       },
       {
         "kind": "cask",
         "slug": "iina",
         "description": "Free and open-source media player",
-        "installs": 70043
+        "installs": 70676
       },
       {
         "kind": "cask",
         "slug": "inkscape",
         "description": "Vector graphics editor",
-        "installs": 50861
+        "installs": 51049
       },
       {
         "kind": "cask",
         "slug": "obs",
         "description": "Open-source software for live streaming and screen recording",
-        "installs": 49061
+        "installs": 49666
       },
       {
         "kind": "cask",
         "slug": "steam",
         "description": "Video game digital distribution service",
-        "installs": 46554
+        "installs": 46722
       },
       {
         "kind": "cask",
         "slug": "gimp",
         "description": "Free and open-source image editor",
-        "installs": 43443
+        "installs": 43431
       },
       {
         "kind": "cask",
         "slug": "godot",
         "description": "2D and 3D game engine",
-        "installs": 37567
+        "installs": 39412
       }
     ]
   },
@@ -916,61 +916,61 @@
         "kind": "cask",
         "slug": "betterdisplay",
         "description": "Display management tool",
-        "installs": 91124
+        "installs": 91854
       },
       {
         "kind": "cask",
         "slug": "localsend",
         "description": "Open-source cross-platform alternative to AirDrop",
-        "installs": 66198
+        "installs": 66813
       },
       {
         "kind": "cask",
         "slug": "karabiner-elements",
         "description": "Keyboard customiser",
-        "installs": 58386
+        "installs": 58692
       },
       {
         "kind": "cask",
         "slug": "appcleaner",
         "description": "Application uninstaller",
-        "installs": 49319
+        "installs": 49420
       },
       {
         "kind": "cask",
         "slug": "linearmouse",
         "description": "Customise mouse behavior",
-        "installs": 44433
+        "installs": 45083
       },
       {
         "kind": "cask",
         "slug": "keka",
         "description": "File archiver",
-        "installs": 43161
+        "installs": 43621
       },
       {
         "kind": "cask",
         "slug": "pearcleaner",
         "description": "Utility to uninstall apps and remove leftover files from old/uninstalled apps",
-        "installs": 42977
+        "installs": 42847
       },
       {
         "kind": "cask",
         "slug": "mos",
         "description": "Smooths scrolling and set mouse scroll directions independently",
-        "installs": 36409
+        "installs": 36477
       },
       {
         "kind": "cask",
         "slug": "monitorcontrol",
         "description": "Tool to control external monitor brightness & volume",
-        "installs": 32536
+        "installs": 32785
       },
       {
         "kind": "cask",
         "slug": "caffeine",
         "description": "Utility that prevents the system from going to sleep",
-        "installs": 31406
+        "installs": 31489
       }
     ]
   }
